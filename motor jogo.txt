@@ -1,0 +1,9 @@
+novo_jogo
+-> não tem argumentos
+-> Retorno: tuplo (gralha, fim, vitoria, pontos)
+->mover o def. das variáveis da aula2 para dentro do novo_jogo
+-> Implementar funções auxiliares
+ 
+  get_2ou4
+  inserir_2ou4
+  get_posições_vazias

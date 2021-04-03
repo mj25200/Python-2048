@@ -1,0 +1,3 @@
+numero=a47742
+amigos=a47737,a47738
+fim
